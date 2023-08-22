@@ -1,0 +1,12 @@
+C:\Projects\SSISApp\SSISApp.Infrastructure\bin\Debug\net7.0\SSISApp.Infrastructure.deps.json
+C:\Projects\SSISApp\SSISApp.Infrastructure\bin\Debug\net7.0\SSISApp.Infrastructure.dll
+C:\Projects\SSISApp\SSISApp.Infrastructure\bin\Debug\net7.0\SSISApp.Infrastructure.pdb
+C:\Projects\SSISApp\SSISApp.Infrastructure\obj\Debug\net7.0\SSISApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\SSISApp\SSISApp.Infrastructure\obj\Debug\net7.0\SSISApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SSISApp\SSISApp.Infrastructure\obj\Debug\net7.0\SSISApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\SSISApp\SSISApp.Infrastructure\obj\Debug\net7.0\SSISApp.Infrastructure.AssemblyInfo.cs
+C:\Projects\SSISApp\SSISApp.Infrastructure\obj\Debug\net7.0\SSISApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\SSISApp\SSISApp.Infrastructure\obj\Debug\net7.0\SSISApp.Infrastructure.dll
+C:\Projects\SSISApp\SSISApp.Infrastructure\obj\Debug\net7.0\refint\SSISApp.Infrastructure.dll
+C:\Projects\SSISApp\SSISApp.Infrastructure\obj\Debug\net7.0\SSISApp.Infrastructure.pdb
+C:\Projects\SSISApp\SSISApp.Infrastructure\obj\Debug\net7.0\ref\SSISApp.Infrastructure.dll

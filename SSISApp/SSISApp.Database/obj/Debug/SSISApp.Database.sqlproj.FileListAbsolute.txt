@@ -1,0 +1,10 @@
+C:\Projects\SSISApp\SSISApp.Database\bin\Debug\SSISApp.Database.dacpac
+C:\Projects\SSISApp\SSISApp.Database\bin\Debug\SSISApp.Database.dll
+C:\Projects\SSISApp\SSISApp.Database\bin\Debug\SSISApp.Database.pdb
+C:\Projects\SSISApp\SSISApp.Database\obj\Debug\SSISApp.Database.sqlproj.AssemblyReference.cache
+C:\Projects\SSISApp\SSISApp.Database\obj\Debug\Model.xml
+C:\Projects\SSISApp\SSISApp.Database\obj\Debug\refactor.xml
+C:\Projects\SSISApp\SSISApp.Database\obj\Debug\postdeploy.sql
+C:\Projects\SSISApp\SSISApp.Database\obj\Debug\predeploy.sql
+C:\Projects\SSISApp\SSISApp.Database\obj\Debug\SSISApp.Database.dll
+C:\Projects\SSISApp\SSISApp.Database\obj\Debug\SSISApp.Database.pdb

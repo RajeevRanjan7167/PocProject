@@ -1,0 +1,14 @@
+C:\Projects\SSISApp\SSISApp.Repository\bin\Debug\net7.0\SSISApp.Repository.deps.json
+C:\Projects\SSISApp\SSISApp.Repository\bin\Debug\net7.0\SSISApp.Repository.runtimeconfig.json
+C:\Projects\SSISApp\SSISApp.Repository\bin\Debug\net7.0\SSISApp.Repository.dll
+C:\Projects\SSISApp\SSISApp.Repository\bin\Debug\net7.0\SSISApp.Repository.pdb
+C:\Projects\SSISApp\SSISApp.Repository\obj\Debug\net7.0\SSISApp.Repository.csproj.AssemblyReference.cache
+C:\Projects\SSISApp\SSISApp.Repository\obj\Debug\net7.0\SSISApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SSISApp\SSISApp.Repository\obj\Debug\net7.0\SSISApp.Repository.AssemblyInfoInputs.cache
+C:\Projects\SSISApp\SSISApp.Repository\obj\Debug\net7.0\SSISApp.Repository.AssemblyInfo.cs
+C:\Projects\SSISApp\SSISApp.Repository\obj\Debug\net7.0\SSISApp.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\SSISApp\SSISApp.Repository\obj\Debug\net7.0\SSISApp.Repository.dll
+C:\Projects\SSISApp\SSISApp.Repository\obj\Debug\net7.0\refint\SSISApp.Repository.dll
+C:\Projects\SSISApp\SSISApp.Repository\obj\Debug\net7.0\SSISApp.Repository.pdb
+C:\Projects\SSISApp\SSISApp.Repository\obj\Debug\net7.0\SSISApp.Repository.genruntimeconfig.cache
+C:\Projects\SSISApp\SSISApp.Repository\obj\Debug\net7.0\ref\SSISApp.Repository.dll

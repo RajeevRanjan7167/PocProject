@@ -1,0 +1,12 @@
+C:\Projects\SSISApp\SSISApp.Common\bin\Debug\net7.0\SSISApp.Common.deps.json
+C:\Projects\SSISApp\SSISApp.Common\bin\Debug\net7.0\SSISApp.Common.dll
+C:\Projects\SSISApp\SSISApp.Common\bin\Debug\net7.0\SSISApp.Common.pdb
+C:\Projects\SSISApp\SSISApp.Common\obj\Debug\net7.0\SSISApp.Common.csproj.AssemblyReference.cache
+C:\Projects\SSISApp\SSISApp.Common\obj\Debug\net7.0\SSISApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SSISApp\SSISApp.Common\obj\Debug\net7.0\SSISApp.Common.AssemblyInfoInputs.cache
+C:\Projects\SSISApp\SSISApp.Common\obj\Debug\net7.0\SSISApp.Common.AssemblyInfo.cs
+C:\Projects\SSISApp\SSISApp.Common\obj\Debug\net7.0\SSISApp.Common.csproj.CoreCompileInputs.cache
+C:\Projects\SSISApp\SSISApp.Common\obj\Debug\net7.0\SSISApp.Common.dll
+C:\Projects\SSISApp\SSISApp.Common\obj\Debug\net7.0\refint\SSISApp.Common.dll
+C:\Projects\SSISApp\SSISApp.Common\obj\Debug\net7.0\SSISApp.Common.pdb
+C:\Projects\SSISApp\SSISApp.Common\obj\Debug\net7.0\ref\SSISApp.Common.dll
